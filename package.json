@@ -12,7 +12,9 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "consolidate": "^1.0.4",
+    "ethers": "^6.13.4",
     "hardhat": "^2.22.17",
+    "hardhat-deploy": "^0.14.0",
     "mkdir": "^0.0.2",
     "rimraf": "^6.0.1"
   }
